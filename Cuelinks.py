@@ -3,7 +3,7 @@ import streamlit.components.v1 as components  # Explicit import for components.v
 
 # Set page title
 st.set_page_config(
-    page_title="Cuelinks Power BI Report",
+    page_title="Power BI Report",
     layout="wide",  # Use the wide layout for better utilization of screen space
 )
 
